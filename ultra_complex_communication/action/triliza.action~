@@ -1,0 +1,9 @@
+#goal definition
+uint8[] tbl
+
+---
+#result definition
+uint8[] tbl
+---
+#feedback
+uint8 position

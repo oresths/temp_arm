@@ -1,0 +1,5 @@
+<launch>
+<node pkg="complex_communication" name="servel_l" type="server"/>
+<node pkg="complex_communication" name="player1_l" type="player_1"/>
+<node pkg="complex_communication" name="player2_l" type="player_2"/>
+</launch>

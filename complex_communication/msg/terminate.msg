@@ -1,0 +1,1 @@
+bool game_ends

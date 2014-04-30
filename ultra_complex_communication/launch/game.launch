@@ -1,0 +1,5 @@
+<launch>
+<node pkg="ultra_complex_communication" name="aservel_l" type="aserver"/>
+<node pkg="ultra_complex_communication" name="aplayer1_l" type="aplayer_1"/>
+<node pkg="ultra_complex_communication" name="aplayer2_l" type="aplayer_2"/>
+</launch>

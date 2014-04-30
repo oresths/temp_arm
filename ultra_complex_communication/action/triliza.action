@@ -1,0 +1,9 @@
+#goal definition
+uint8[] tbl
+bool gameOver
+---
+#result definition
+uint8[] tbl
+---
+#feedback
+uint8 position
